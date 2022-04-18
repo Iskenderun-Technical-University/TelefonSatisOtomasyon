@@ -1,1 +1,1 @@
-# YMG-TelefonSatisOtomasyonn
+# YMG-TelefonSatisOtomasyonu
