@@ -14,3 +14,7 @@ Otomasyon içerisinde ürünün teknik özellikleri, fiyat bilgisi, stok durumun
 
 # Kullanılan Dil
 C#
+
+
+# Use Case Diagram
+![Untitled Workspace](https://user-images.githubusercontent.com/101322048/165139739-c6cc5d8a-807d-49be-91e3-d56e12fbe4a4.png)
