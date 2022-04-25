@@ -12,5 +12,5 @@ Otomasyon içerisinde ürünün teknik özellikleri, fiyat bilgisi, stok durumun
 6. Satın alan kişinin kişisel bilgiler bölümü eklendi.
 7. Tüm panellerin birbiri ile bağlantısı sağlandı.
 
-#Kullanılan Dil
+# Kullanılan Dil
 C#
