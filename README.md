@@ -1,3 +1,7 @@
+#
+Ümit Pozan 182523307
+Erdoğan Aykaç 19253070
+
 # Telefon Satış Otomasyonu 
 # Giriş 
 Bu projenin amacı, daha düşük bütçeli şirketler için basit bir ürün (telefon) ekleme , çıkarma ve güncelleme işlemi yapmasını sağlıyor.
