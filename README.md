@@ -21,3 +21,20 @@ C#
 # Use Case Diagram
 ![Untitled Workspace](https://user-images.githubusercontent.com/101322048/165139739-c6cc5d8a-807d-49be-91e3-d56e12fbe4a4.png)
 
+
+# Uygulama İçeriği
+
+![Girisekran](https://user-images.githubusercontent.com/101322048/170858502-c6a4561b-5fe6-42e9-a7bc-f44f6106c280.png)
+Bu Ekranda login olmadan tıklama ile direk giriş yapabiliyoruz.
+
+![Telefonekran](https://user-images.githubusercontent.com/101322048/170858616-07793f8c-0001-435c-afb3-b2bfdba892d1.png)
+Burada ise sağ ekrandan istediğiniz telefona tıklayarak özelliklerini önünüze getirebiliyor ve seçim yaptıktan sonra onay butonu ile satın alım sayfasına gidebiliyorsunuz.
+
+![alımekran](https://user-images.githubusercontent.com/101322048/170858643-05f9b3c2-e473-450d-865f-1b1acec045a1.png)
+Burada seçtiğiniz telefonun alım işlemini tamamlıyor bilgiler doğru ise uygulamanın ilk ekranına yönlendiriliyorsunuz.
+
+![YapılanSatislar](https://user-images.githubusercontent.com/101322048/170858668-22d9bc7b-40cb-4261-9138-2c4b7519de64.png)
+Buradan yapılan satışlar fiyatları vs veritabanında gözüküyor.
+
+![Stok](https://user-images.githubusercontent.com/101322048/170858685-349053e3-c82e-4bbc-8d40-07a1d2840d3e.png)
+Burada ise kullanıcı telefon stoklarını güncelleyebiliyor silebiliyor özelliklerini düzenleyebiliyor.
